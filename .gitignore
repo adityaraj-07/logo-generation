@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+# Jupyter Notebook
+.ipynb_checkpoints
+# Large files
+models/
+data/
